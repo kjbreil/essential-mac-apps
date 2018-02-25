@@ -1,21 +1,34 @@
 # Essential Apps for Developers on OS X:
 
-+ ChunkWM: Tiling Window Manager. https://github.com/koekeishiya/chunkwm
-+ SKHD: Hotkey daemon. https://github.com/koekeishiya/skhd
+## Must Have
 + Bartender:
+
+
+## Debatables
+
+### Shell
++ Antigen:
++ oh-my-zsh:
+    + 
+### Window Management
++ ChunkWM: Tiling Window Manager. https://github.com/koekeishiya/chunkwm
+- BetterSnapTool: Window snapping. https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12
+
+### 
+
+## Other
+
++ SKHD: Hotkey daemon. https://github.com/koekeishiya/skhd
 + iStats Menus:
 + Visual Studio Code:
 + VMWare Fusion Pro:
 + Parallels Buisness:  
-+ Antigen:
-    + oh-my-zsh:
-        + 
+
 
 
 * Postman
 
 
-- BetterSnapTool: Window snapping. https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12
 - Caffeine: Prevent auto sleep. http://lightheadsw.com/caffeine/
 - Coda: Web IDE. https://panic.com/coda/
 - ClipMenu: Clipboard management. http://www.clipmenu.com/
