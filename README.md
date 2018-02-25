@@ -10,19 +10,21 @@
 + Antigen:
 + oh-my-zsh:
     + 
+
 ### Window Management
 + ChunkWM: Tiling Window Manager. https://github.com/koekeishiya/chunkwm
 - BetterSnapTool: Window snapping. https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12
 
-### 
+### Virtual
++ VMWare Fusion Pro:
++ Parallels Pro:
++ Docker:
 
 ## Other
 
 + SKHD: Hotkey daemon. https://github.com/koekeishiya/skhd
 + iStats Menus:
 + Visual Studio Code:
-+ VMWare Fusion Pro:
-+ Parallels Buisness:  
 
 
 
